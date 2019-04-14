@@ -1,2 +1,2 @@
-# Matlab-to-C-
+# Matlab-to-C++
 Matlab libraries to C++ 
